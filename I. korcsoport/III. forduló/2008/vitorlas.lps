@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="2">
+      <Unit0>
+        <Filename Value="vitorlas.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="vitorlas"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="36"/>
+        <CursorPos X="1" Y="80"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="C:\lazarus\fpc\2.6.4\source\rtl\objpas\classes\classesh.inc"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="106"/>
+        <CursorPos X="14" Y="126"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit1>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <JumpHistory Count="13" HistoryIndex="12">
+      <Position1>
+        <Filename Value="vitorlas.lpr"/>
+        <Caret Line="28" Column="51" TopLine="1"/>
+      </Position1>
+      <Position2>
+        <Filename Value="vitorlas.lpr"/>
+        <Caret Line="15" Column="5" TopLine="2"/>
+      </Position2>
+      <Position3>
+        <Filename Value="vitorlas.lpr"/>
+        <Caret Line="43" Column="15" TopLine="22"/>
+      </Position3>
+      <Position4>
+        <Filename Value="vitorlas.lpr"/>
+        <Caret Line="46" Column="16" TopLine="20"/>
+      </Position4>
+      <Position5>
+        <Filename Value="vitorlas.lpr"/>
+        <Caret Line="33" Column="13" TopLine="13"/>
+      </Position5>
+      <Position6>
+        <Filename Value="vitorlas.lpr"/>
+        <Caret Line="69" Column="76" TopLine="44"/>
+      </Position6>
+      <Position7>
+        <Filename Value="vitorlas.lpr"/>
+        <Caret Line="72" Column="26" TopLine="46"/>
+      </Position7>
+      <Position8>
+        <Filename Value="C:\lazarus\fpc\2.6.4\source\rtl\objpas\classes\classesh.inc"/>
+        <Caret Line="127" Column="15" TopLine="103"/>
+      </Position8>
+      <Position9>
+        <Filename Value="C:\lazarus\fpc\2.6.4\source\rtl\objpas\classes\classesh.inc"/>
+        <Caret Line="128" Column="37" TopLine="104"/>
+      </Position9>
+      <Position10>
+        <Filename Value="C:\lazarus\fpc\2.6.4\source\rtl\objpas\classes\classesh.inc"/>
+        <Caret Line="129" Column="35" TopLine="105"/>
+      </Position10>
+      <Position11>
+        <Filename Value="C:\lazarus\fpc\2.6.4\source\rtl\objpas\classes\classesh.inc"/>
+        <Caret Line="130" Column="35" TopLine="106"/>
+      </Position11>
+      <Position12>
+        <Filename Value="vitorlas.lpr"/>
+        <Caret Line="75" Column="62" TopLine="52"/>
+      </Position12>
+      <Position13>
+        <Filename Value="vitorlas.lpr"/>
+        <Caret Line="36" Column="48" TopLine="16"/>
+      </Position13>
+    </JumpHistory>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints Count="1">
+      <Item1>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="vitorlas.lpr"/>
+        <Line Value="80"/>
+      </Item1>
+    </BreakPoints>
+  </Debugging>
+  <EditorMacros Count="0"/>
+</CONFIG>
