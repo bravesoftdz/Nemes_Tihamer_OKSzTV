@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="allat.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="allat"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="25"/>
+        <CursorPos X="1" Y="53"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <JumpHistory Count="25" HistoryIndex="24">
+      <Position1>
+        <Filename Value="allat.lpr"/>
+        <Caret Line="15" Column="17" TopLine="1"/>
+      </Position1>
+      <Position2>
+        <Filename Value="allat.lpr"/>
+        <Caret Line="44" Column="12" TopLine="14"/>
+      </Position2>
+      <Position3>
+        <Filename Value="allat.lpr"/>
+        <Caret Line="21" Column="36" TopLine="3"/>
+      </Position3>
+      <Position4>
+        <Filename Value="allat.lpr"/>
+        <Caret Line="32" Column="44" TopLine="16"/>
+      </Position4>
+      <Position5>
+        <Filename Value="allat.lpr"/>
+        <Caret Line="19" Column="31" TopLine="1"/>
+      </Position5>
+      <Position6>
+        <Filename Value="allat.lpr"/>
+        <Caret Line="32" Column="14" TopLine="5"/>
+      </Position6>
+      <Position7>
+        <Filename Value="allat.lpr"/>
+        <Caret Line="46" Column="29" TopLine="18"/>
+      </Position7>
+      <Position8>
+        <Filename Value="allat.lpr"/>
+        <Caret Line="35" Column="7" TopLine="20"/>
+      </Position8>
+      <Position9>
+        <Filename Value="allat.lpr"/>
+        <Caret Line="37" Column="11" TopLine="20"/>
+      </Position9>
+      <Position10>
+        <Filename Value="allat.lpr"/>
+        <Caret Line="40" Column="1" TopLine="20"/>
+      </Position10>
+      <Position11>
+        <Filename Value="allat.lpr"/>
+        <Caret Line="39" Column="1" TopLine="20"/>
+      </Position11>
+      <Position12>
+        <Filename Value="allat.lpr"/>
+        <Caret Line="40" Column="1" TopLine="20"/>
+      </Position12>
+      <Position13>
+        <Filename Value="allat.lpr"/>
+        <Caret Line="39" Column="1" TopLine="20"/>
+      </Position13>
+      <Position14>
+        <Filename Value="allat.lpr"/>
+        <Caret Line="40" Column="1" TopLine="20"/>
+      </Position14>
+      <Position15>
+        <Filename Value="allat.lpr"/>
+        <Caret Line="39" Column="1" TopLine="20"/>
+      </Position15>
+      <Position16>
+        <Filename Value="allat.lpr"/>
+        <Caret Line="40" Column="1" TopLine="20"/>
+      </Position16>
+      <Position17>
+        <Filename Value="allat.lpr"/>
+        <Caret Line="39" Column="1" TopLine="20"/>
+      </Position17>
+      <Position18>
+        <Filename Value="allat.lpr"/>
+        <Caret Line="40" Column="1" TopLine="20"/>
+      </Position18>
+      <Position19>
+        <Filename Value="allat.lpr"/>
+        <Caret Line="39" Column="1" TopLine="20"/>
+      </Position19>
+      <Position20>
+        <Filename Value="allat.lpr"/>
+        <Caret Line="40" Column="1" TopLine="20"/>
+      </Position20>
+      <Position21>
+        <Filename Value="allat.lpr"/>
+        <Caret Line="43" Column="1" TopLine="20"/>
+      </Position21>
+      <Position22>
+        <Filename Value="allat.lpr"/>
+        <Caret Line="44" Column="1" TopLine="20"/>
+      </Position22>
+      <Position23>
+        <Filename Value="allat.lpr"/>
+        <Caret Line="45" Column="1" TopLine="20"/>
+      </Position23>
+      <Position24>
+        <Filename Value="allat.lpr"/>
+        <Caret Line="46" Column="1" TopLine="20"/>
+      </Position24>
+      <Position25>
+        <Filename Value="allat.lpr"/>
+        <Caret Line="32" Column="12" TopLine="25"/>
+      </Position25>
+    </JumpHistory>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints Count="1">
+      <Item1>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="allat.lpr"/>
+        <Line Value="53"/>
+      </Item1>
+    </BreakPoints>
+    <Watches Count="2">
+      <Item1>
+        <Expression Value="N"/>
+      </Item1>
+      <Item2>
+        <Expression Value="B"/>
+      </Item2>
+    </Watches>
+  </Debugging>
+  <EditorMacros Count="0"/>
+</CONFIG>
