@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="4">
+      <Unit0>
+        <Filename Value="titkosiras.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="titkosiras"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="30"/>
+        <CursorPos X="1" Y="58"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="..\..\..\base.h.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="10"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="..\..\..\base.inc"/>
+        <IsPartOfProject Value="True"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="16" Y="17"/>
+        <UsageCount Value="20"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="base.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="9" Y="14"/>
+        <UsageCount Value="10"/>
+      </Unit3>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="titkosiras.lpr"/>
+        <Caret Line="36" Column="1" TopLine="17"/>
+      </Position1>
+      <Position2>
+        <Filename Value="titkosiras.lpr"/>
+        <Caret Line="47" Column="1" TopLine="18"/>
+      </Position2>
+      <Position3>
+        <Filename Value="titkosiras.lpr"/>
+        <Caret Line="36" Column="1" TopLine="18"/>
+      </Position3>
+      <Position4>
+        <Filename Value="titkosiras.lpr"/>
+        <Caret Line="47" Column="1" TopLine="18"/>
+      </Position4>
+      <Position5>
+        <Filename Value="titkosiras.lpr"/>
+        <Caret Line="36" Column="1" TopLine="18"/>
+      </Position5>
+      <Position6>
+        <Filename Value="titkosiras.lpr"/>
+        <Caret Line="47" Column="1" TopLine="18"/>
+      </Position6>
+      <Position7>
+        <Filename Value="titkosiras.lpr"/>
+        <Caret Line="36" Column="1" TopLine="18"/>
+      </Position7>
+      <Position8>
+        <Filename Value="titkosiras.lpr"/>
+        <Caret Line="47" Column="1" TopLine="18"/>
+      </Position8>
+      <Position9>
+        <Filename Value="titkosiras.lpr"/>
+        <Caret Line="36" Column="1" TopLine="18"/>
+      </Position9>
+      <Position10>
+        <Filename Value="titkosiras.lpr"/>
+        <Caret Line="47" Column="1" TopLine="18"/>
+      </Position10>
+      <Position11>
+        <Filename Value="titkosiras.lpr"/>
+        <Caret Line="36" Column="1" TopLine="18"/>
+      </Position11>
+      <Position12>
+        <Filename Value="titkosiras.lpr"/>
+        <Caret Line="47" Column="1" TopLine="18"/>
+      </Position12>
+      <Position13>
+        <Filename Value="titkosiras.lpr"/>
+        <Caret Line="36" Column="1" TopLine="18"/>
+      </Position13>
+      <Position14>
+        <Filename Value="titkosiras.lpr"/>
+        <Caret Line="47" Column="1" TopLine="18"/>
+      </Position14>
+      <Position15>
+        <Filename Value="titkosiras.lpr"/>
+        <Caret Line="36" Column="1" TopLine="18"/>
+      </Position15>
+      <Position16>
+        <Filename Value="titkosiras.lpr"/>
+        <Caret Line="47" Column="1" TopLine="18"/>
+      </Position16>
+      <Position17>
+        <Filename Value="titkosiras.lpr"/>
+        <Caret Line="36" Column="1" TopLine="18"/>
+      </Position17>
+      <Position18>
+        <Filename Value="titkosiras.lpr"/>
+        <Caret Line="47" Column="1" TopLine="18"/>
+      </Position18>
+      <Position19>
+        <Filename Value="titkosiras.lpr"/>
+        <Caret Line="35" Column="1" TopLine="18"/>
+      </Position19>
+      <Position20>
+        <Filename Value="titkosiras.lpr"/>
+        <Caret Line="36" Column="1" TopLine="18"/>
+      </Position20>
+      <Position21>
+        <Filename Value="titkosiras.lpr"/>
+        <Caret Line="47" Column="1" TopLine="18"/>
+      </Position21>
+      <Position22>
+        <Filename Value="titkosiras.lpr"/>
+        <Caret Line="38" Column="1" TopLine="18"/>
+      </Position22>
+      <Position23>
+        <Filename Value="titkosiras.lpr"/>
+        <Caret Line="39" Column="1" TopLine="18"/>
+      </Position23>
+      <Position24>
+        <Filename Value="titkosiras.lpr"/>
+        <Caret Line="36" Column="1" TopLine="18"/>
+      </Position24>
+      <Position25>
+        <Filename Value="titkosiras.lpr"/>
+        <Caret Line="47" Column="1" TopLine="18"/>
+      </Position25>
+      <Position26>
+        <Filename Value="titkosiras.lpr"/>
+        <Caret Line="41" Column="1" TopLine="18"/>
+      </Position26>
+      <Position27>
+        <Filename Value="titkosiras.lpr"/>
+        <Caret Line="42" Column="1" TopLine="18"/>
+      </Position27>
+      <Position28>
+        <Filename Value="titkosiras.lpr"/>
+        <Caret Line="29" Column="19" TopLine="18"/>
+      </Position28>
+      <Position29>
+        <Filename Value="titkosiras.lpr"/>
+        <Caret Line="33" Column="17" TopLine="19"/>
+      </Position29>
+      <Position30>
+        <Filename Value="titkosiras.lpr"/>
+        <Caret Line="54" Column="25" TopLine="28"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+  <EditorMacros Count="0"/>
+</CONFIG>

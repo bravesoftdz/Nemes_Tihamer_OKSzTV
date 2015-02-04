@@ -11,6 +11,9 @@ uses
   { you can add units after this },
   sysutils, math;
 
+uses
+  sysutils, math;
+  
 type
   EInvalidData=class(Exception);
 
@@ -20,6 +23,9 @@ begin
   Read(Result);
   if (Result<minv) or (Result>maxv) then raise EInvalidData.Create('"'+name+'" is not in range '+IntToStr(minv)+'-'+IntToStr(maxv)+'.');
 end;
+
+var
+  i, j, N: Integer;
 
 var
   i, j, A, B: Integer;
