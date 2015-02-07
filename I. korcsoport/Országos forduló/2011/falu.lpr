@@ -32,10 +32,7 @@ begin
     ut.t:=     get('ut#'+IntToStr(i)+'/veg  ')-1;
     ut.length:=get('ut#'+IntToStr(i)+'/hossz'){$IfNDef DBG}+1{$EndIf};
 
-    SetLength(
-      faluk[ut.f],
-      Length(faluk[ut.f])+1
-    );
+    SetLength(faluk[ut.f], Length(faluk[ut.f])+1);
     faluk[ut.f][Length(faluk[ut.f])]:=ut.length;
 
     SetLength(faluk[ut.t], Length(faluk[ut.t])+1);

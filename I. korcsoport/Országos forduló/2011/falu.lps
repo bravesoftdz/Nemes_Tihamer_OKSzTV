@@ -12,9 +12,9 @@
         <IsVisibleTab Value="True"/>
         <EditorIndex Value="0"/>
         <WindowIndex Value="0"/>
-        <TopLine Value="15"/>
-        <CursorPos X="71" Y="40"/>
-        <UsageCount Value="20"/>
+        <TopLine Value="16"/>
+        <CursorPos X="54" Y="33"/>
+        <UsageCount Value="21"/>
         <Loaded Value="True"/>
       </Unit0>
       <Unit1>
@@ -23,14 +23,14 @@
         <WindowIndex Value="0"/>
         <TopLine Value="1"/>
         <CursorPos X="1" Y="9"/>
-        <UsageCount Value="10"/>
+        <UsageCount Value="11"/>
         <Loaded Value="True"/>
       </Unit1>
     </Units>
     <General>
       <ActiveWindowIndexAtStart Value="0"/>
     </General>
-    <JumpHistory Count="15" HistoryIndex="14">
+    <JumpHistory Count="17" HistoryIndex="16">
       <Position1>
         <Filename Value="falu.lpr"/>
         <Caret Line="43" Column="23" TopLine="17"/>
@@ -91,6 +91,14 @@
         <Filename Value="base.inc"/>
         <Caret Line="9" Column="1" TopLine="1"/>
       </Position15>
+      <Position16>
+        <Filename Value="falu.lpr"/>
+        <Caret Line="40" Column="71" TopLine="15"/>
+      </Position16>
+      <Position17>
+        <Filename Value="falu.lpr"/>
+        <Caret Line="30" Column="1" TopLine="15"/>
+      </Position17>
     </JumpHistory>
   </ProjectSession>
   <Debugging>
@@ -100,7 +108,7 @@
         <WatchScope Value="wpsLocal"/>
         <WatchKind Value="wpkWrite"/>
         <Source Value="falu.lpr"/>
-        <Line Value="58"/>
+        <Line Value="55"/>
       </Item1>
     </BreakPoints>
   </Debugging>
