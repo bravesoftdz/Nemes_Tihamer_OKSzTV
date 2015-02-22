@@ -9,11 +9,13 @@ begin
   if (Result<minv) or (Result>maxv) then raise EInvalidData.Create('"'+name+'" is not in range '+IntToStr(minv)+'-'+IntToStr(maxv)+'.');
 end;
 
-function gets(name: String=''; minl: Integer=0; maxl: Integer=255): String;
+function gets(name: String=''; minl: Integer=1; maxl: Integer=255): String;
 begin
   {$IfDef DBG}if name<>'' then Write(name+': ');{$EndIf}
   if maxl>255 then SetLength(Result, maxl);
-  ReadLn(Result);
+  repeat
+    ReadLn(Result);
+  until Length(Result)>=minl;
   if (Length(Result)<minl) or (Length(Result)>maxl) then
     Raise EInvalidData.Create('"'+name+'" has unallowed length: '+IntToStr(Length(Result))+' ('+IntToStr(minl)+'-'+IntToStr(maxl)+')');
 end;
@@ -42,6 +44,21 @@ begin
   for i:=0 to Length(value)-1 do
     s:=s+' '+IntToStr(value[i]);
   returna(name, s, part);
+end;
+
+function nextChar(var s: String): Char;
+begin
+  Result:=s[1];
+  s:=Copy(s, 2, Length(s)-1);
+end;
+
+function nextWord(var s: String): String;
+begin
+  while (Length(s)>0) and (s[1]=' ') do
+    nextChar(s);
+
+  while (Length(s)>0) and (s[1]<>' ') do
+    Result:=Result+nextChar(s);
 end;
 
 var
