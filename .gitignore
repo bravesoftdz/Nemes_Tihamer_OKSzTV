@@ -81,7 +81,7 @@ Thumbs.db
 *.com
 *.class
 #*.dll
-#*.exe
+*.exe #These are unnecessary for solution
 *.o
 *.so
  
