@@ -9,7 +9,6 @@
         <Filename Value="falu.lpr"/>
         <IsPartOfProject Value="True"/>
         <UnitName Value="falu"/>
-        <IsVisibleTab Value="True"/>
         <EditorIndex Value="0"/>
         <WindowIndex Value="0"/>
         <TopLine Value="16"/>
@@ -19,6 +18,7 @@
       </Unit0>
       <Unit1>
         <Filename Value="base.inc"/>
+        <IsVisibleTab Value="True"/>
         <EditorIndex Value="1"/>
         <WindowIndex Value="0"/>
         <TopLine Value="1"/>
