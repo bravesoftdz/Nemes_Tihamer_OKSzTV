@@ -60,7 +60,10 @@ __history/
 *.*~
 backup/
 lib/
-#*.res
+#We are using one unit only... (*.lpr)
+*.res
+*.lpi
+*.lps
 
 #####################################
 #           Other files             #
