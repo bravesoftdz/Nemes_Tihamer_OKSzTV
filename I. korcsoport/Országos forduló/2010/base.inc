@@ -9,10 +9,13 @@ begin
   if (Result<minv) or (Result>maxv) then raise EInvalidData.Create('"'+name+'" is not in range '+IntToStr(minv)+'-'+IntToStr(maxv)+'.');
 end;
 
-function gets(name: String=''): String;
+function gets(name: String=''; minl: Integer=0; maxl: Integer=255): String;
 begin
   {$IfDef DBG}if name<>'' then Write(name+': ');{$EndIf}
+  if maxl>255 then SetLength(Result, maxl);
   ReadLn(Result);
+  if (Length(Result)<minl) or (Length(Result)>maxl) then
+    Raise EInvalidData.Create('"'+name+'" has unallowed length: '+IntToStr(Length(Result))+' ('+IntToStr(minl)+'-'+IntToStr(maxl)+')');
 end;
 
 procedure return(name: String; value: String; part: Char=#0);
