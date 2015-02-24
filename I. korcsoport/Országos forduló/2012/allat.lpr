@@ -25,9 +25,6 @@ begin
 end;
 
 var
-  i, j, N: Integer;
-
-var
   i, j, A, B: Integer;
   N: array of Integer;
 

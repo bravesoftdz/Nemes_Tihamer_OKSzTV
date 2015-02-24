@@ -22,10 +22,11 @@ begin
     if Length(w)>N then raise ETooBigWord.Create('Túl nagy szó: '+w);
     if Length(l+' '+w)<N then l:=l+' '+w
     else begin
-      Write('|'); Write(l); for i:=1 to Length(l) do Write(' '); WriteLn('|');
+      Write('|'); Write(l); for i:=1 to N-Length(l) do Write(' '); WriteLn('|');
       l:=w;
     end;
   end;
-  Write('|'); Write(l); for i:=1 to Length(l) do Write(' '); WriteLn('|');
+  Write('|'); Write(l); for i:=1 to N-Length(l) do Write(' '); WriteLn('|');
+  gets('Kilépés');
 end.
 
