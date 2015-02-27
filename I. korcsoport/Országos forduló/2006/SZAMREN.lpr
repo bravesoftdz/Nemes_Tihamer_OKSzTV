@@ -12,8 +12,9 @@ begin
   {$EndIf}
 end;
 
-var i, j, k, N: Integer;
+var i, j, k, N, o, rN, cnt: Integer;
     s: String;
+const asc: array[0..9] of char=('0', '1', '2', '3', '4', '5', '6', '7', '8', '9');
 
 function CtoInteger(C: Char): Integer;
 const asc: array[0..9] of char=('0', '1', '2', '3', '4', '5', '6', '7', '8', '9');
@@ -62,13 +63,25 @@ end;
 
 begin
   N:=get('Szam');
-  dbg('AsInt', strtoint(s))
-  for i:=2 to strtoint(s)+1 do
+  rN:=round(sqrt(N));
+  for i:=2 to N+1 do
   begin
-    N:=0;
-
-    j:=1 to Length(s) do
-      N:=N+;
+    s:='';
+    for j:=1 to rN do
+    begin
+      o:=N;
+      for k:=1 to i do
+      begin
+        cnt:=0;
+        if o>=hatv(i, rN-j) then
+        begin
+          o:=o-hatv(i, rN-j);
+          inc(cnt);
+        end;
+        s:=s+asc[cnt];
+      end;
+    end;
+    dbg(s, i);
   end;
 end.
 
