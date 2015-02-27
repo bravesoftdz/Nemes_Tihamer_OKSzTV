@@ -27,6 +27,11 @@ begin
   WriteLn(value);
 end;
 
+procedure dbg(name: String; value: String);
+begin
+  {$IfDef DBG}return(name, value);{$EndIf}
+end;
+
 procedure returna(name: String; value: TArrayOfInteger_implode; part: Char=#0);
 var s: String;
 begin
